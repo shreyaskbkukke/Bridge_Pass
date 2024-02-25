@@ -4,6 +4,10 @@
 
 This Arduino project integrates an IR Proximity Sensor, LDR, and servo motors to create a laser security system with gate control. The system opens the gates and activates lights when an object breaks the laser beam.
 
+![20231126_102213](https://github.com/shreyaskbkukke/Bridge_Pass/assets/96857515/de13ab09-316e-444d-b446-9d32c640600a)
+
+![20231126_102205](https://github.com/shreyaskbkukke/Bridge_Pass/assets/96857515/4bf9ead7-6b09-410a-84f0-d52d7623e0d9)
+
 ## Components
 
 - 2 Servo Motors
